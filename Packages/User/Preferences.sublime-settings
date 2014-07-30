@@ -1,0 +1,6 @@
+{
+	"font_size": 13,
+	"theme": "predawn.sublime-theme",
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"sidebar_default": true
+}
